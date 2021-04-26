@@ -1,4 +1,4 @@
-# Lumi PBR Gla
+# Lumi PBR Extras
 
 Small extra pack to make tradional glass reflective to make it more in line with other glass types.
 
